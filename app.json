@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "0e8fbc61-e556-4cb7-8232-f9969f7c994c"
+      }
+    },
+    "owner": "douglowderexpo"
   }
 }
